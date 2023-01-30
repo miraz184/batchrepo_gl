@@ -1,0 +1,9 @@
+
+T
+java:S1874"?Remove this use of "WebMvcConfigurerAdapter"; it is deprecated.(¡žÊ
+l
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäþÿÿÿÿ
+v
+java:S1128	"[Remove this unused import 'org.springframework.web.servlet.config.annotation.EnableWebMvc'.(Â°Ä¡úÿÿÿÿ

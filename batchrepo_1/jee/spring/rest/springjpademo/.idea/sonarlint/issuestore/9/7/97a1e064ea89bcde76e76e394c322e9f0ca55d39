@@ -1,0 +1,12 @@
+
+b	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(ÌÏ¼8—”úŸĞ0
+€
+java:S1488J"jImmediately return this expression instead of assigning it to the temporary variable "transactionManager".( ¦İô
+a
+java:S1874""?Remove this use of "WebMvcConfigurerAdapter"; it is deprecated.(ŠÆÅıÿÿÿÿ8¬”úŸĞ0
+p
+java:S1128"NRemove this unused import 'org.springframework.web.WebApplicationInitializer'.(ıƒÂÿşÿÿÿÿ8¹”úŸĞ0
+V
+java:S1128"9Remove this unused import 'javax.servlet.ServletContext'.(á¡æŞ8¹”úŸĞ0
+X
+java:S1128";Remove this unused import 'javax.servlet.ServletException'.(Š‰™Œ8º”úŸĞ0

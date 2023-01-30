@@ -1,0 +1,12 @@
+org/globaltrainings/AspectLogging.class
+org/globaltrainings/JavaConfig.class
+org/globaltrainings/dao/IProductDao.class
+org/globaltrainings/entity/Product.class
+org/globaltrainings/exceptions/ProductNotFoundException.class
+org/globaltrainings/service/ProductServiceImpl.class
+org/globaltrainings/dao/ProductDaoImpl.class
+org/globaltrainings/exceptions/InvalidArgumentException.class
+org/globaltrainings/datastore/ProductStore.class
+org/globaltrainings/service/IProductService.class
+org/globaltrainings/ApplicationLaunch.class
+org/globaltrainings/frontend/FrontEnd.class

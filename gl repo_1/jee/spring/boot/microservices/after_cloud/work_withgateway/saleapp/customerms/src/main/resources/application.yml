@@ -1,0 +1,23 @@
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:9000/eureka
+productms:
+    baseurl: http://productms
+server:
+    port: 8586
+spring:
+    application:
+        name: customerms
+    datasource:
+        driver-class-name: org.postgresql.Driver
+        password: scooby
+        url: jdbc:postgresql://localhost:5432/customerdb
+        username: postgres
+    jpa:
+        hibernate:
+            ddl-auto: create
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.PostgreSQL95Dialect
+        show-sql: false

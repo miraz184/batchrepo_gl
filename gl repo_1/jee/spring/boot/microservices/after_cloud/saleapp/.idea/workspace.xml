@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d51fa3c-5e60-4988-9819-63e24a03f5de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/customerms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/CentralizedExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/controllers/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/dto/BuyProductRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/dto/CustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/dto/ProductDetailsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/dto/RegisterCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/exceptions/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/src/main/java/org/globaltrainings/saleapp/customerms/util/CustomerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customerms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/CentralizedExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/controllers/ProductRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/dto/AddProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/dto/ChangePriceRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/dto/ProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/exceptions/InvalidArgumentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/exceptions/ProductNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/src/main/java/org/globaltrainings/saleapp/productms/util/ProductUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/src/main/java/com/salems/registry/RegistryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/src/main/java/com/salems/registry/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registry/src/test/java/com/salems/registry/RegistryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../before_cloud/saleapp/customerms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customerms/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../before_cloud/saleapp/customerms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/customerms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../before_cloud/saleapp/customerms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../before_cloud/saleapp/productms/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/productms/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../before_cloud/saleapp/productms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/productms/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../before_cloud/saleapp/productms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="2ItDEQz9dhUg73U1MnYttDvVWjw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d51fa3c-5e60-4988-9819-63e24a03f5de" name="Changes" comment="" />
+      <created>1670991873345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670991873345</updated>
+    </task>
+    <servers />
+  </component>
+</project>

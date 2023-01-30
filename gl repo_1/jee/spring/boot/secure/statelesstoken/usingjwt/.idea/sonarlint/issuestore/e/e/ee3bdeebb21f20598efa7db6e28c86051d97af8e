@@ -1,0 +1,9 @@
+
+r
+java:S3305"PInject this field value directly into "configure", the only method that uses it.(¹úËØøÿÿÿÿ8ãÏòÿĞ0
+X
+java:S18743";Remove this use of "NoOpPasswordEncoder"; it is deprecated.(å‰ö8èÏòÿĞ0
+
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder'.(åÅÚ…ûÿÿÿÿ8íÏòÿĞ0
+ƒ
+java:S1128"fRemove this unused import 'org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter'.(Ùõ’ß8îÏòÿĞ0

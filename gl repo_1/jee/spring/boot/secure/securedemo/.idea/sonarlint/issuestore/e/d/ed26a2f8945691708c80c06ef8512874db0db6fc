@@ -1,0 +1,12 @@
+
+k
+java:S3305"PInject this field value directly into "configure", the only method that uses it.(¹úËØøÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(‰„¤ùÿÿÿÿ
+`
+java:S1128"KRemove this unused import 'org.springframework.web.cors.CorsConfiguration'.(î¤·`
+l
+java:S1128"QRemove this unused import 'org.springframework.web.cors.CorsConfigurationSource'.(ŒºÏøşÿÿÿÿ
+t
+java:S1128"YRemove this unused import 'org.springframework.web.cors.UrlBasedCorsConfigurationSource'.(µ²İûùÿÿÿÿ
+|
+java:S1128"fRemove this unused import 'org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter'.(Ùõ’ß

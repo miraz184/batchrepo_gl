@@ -1,0 +1,18 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "product2".(¯åìÄ
+W
+java:S1854"<Remove this useless assignment to local variable "product1".(ûØÿÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(á‘©üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÁÚü
+V
+java:S1612";Replace this lambda with method reference '!Unknown!::new'.(©Öÿíùÿÿÿÿ
+H
+java:S1481"-Remove this unused "product1" local variable.(ûØÿÿÿÿÿ
+T
+java:S1612"9Replace this lambda with method reference 'Product::new'.(Åï€úÿÿÿÿ
+C
+java:S1481"-Remove this unused "product2" local variable.(¯åìÄ

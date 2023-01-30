@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/saleapp/customerms/customerms.iml" filepath="$PROJECT_DIR$/saleapp/customerms/customerms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saleapp/gateway/gateway.iml" filepath="$PROJECT_DIR$/saleapp/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saleapp/productms/productms.iml" filepath="$PROJECT_DIR$/saleapp/productms/productms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saleapp/registry/registry.iml" filepath="$PROJECT_DIR$/saleapp/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/work_withgateway.iml" filepath="$PROJECT_DIR$/.idea/work_withgateway.iml" />
+    </modules>
+  </component>
+</project>

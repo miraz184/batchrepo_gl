@@ -1,0 +1,6 @@
+
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(´–´©
+a
+java:S1128"KRemove this unused import 'com.gltrainings.securedemo.dto.UserDetailsImpl'.(ÿ€è‰
+b
+java:S1128"LRemove this unused import 'com.gltrainings.securedemo.service.IUserService'.(…¡ÃÍ

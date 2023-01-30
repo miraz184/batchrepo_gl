@@ -1,0 +1,17 @@
+server:
+  port: 8587
+
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: service_product
+          uri: http://localhost:8989
+          predicates:
+            - Path= /products/**
+
+
+        - id: service_order
+          uri: http://localhost:8888
+          predicates:
+            - Path= /orders/**

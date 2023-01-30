@@ -1,0 +1,12 @@
+
+x
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "token".(þ½È’øÿÿÿÿ
+v
+java:S1488)"`Immediately return this expression instead of assigning it to the temporary variable "username".(è¼¯«
+c	java:S116"NRename this field "KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í±öÃ
+B
+java:S1172",Remove this unused method parameter "roles".(©ÛÒú
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
